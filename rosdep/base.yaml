@@ -6578,6 +6578,7 @@ pugixml-dev:
   fedora: [pugixml]
   openembedded: [pugixml@meta-oe]
   ubuntu: [libpugixml-dev]
+  nixos: [pugixml]
 pybind11-dev:
   arch: [pybind11]
   debian: [pybind11-dev]
