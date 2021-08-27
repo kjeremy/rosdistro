@@ -7028,6 +7028,7 @@ sparsehash:
   nixos: [sparsehash]
   ubuntu:
     artful: [libsparsehash-dev]
+    
     bionic: [libsparsehash-dev]
     precise: [sparsehash]
     saucy: [sparsehash]
@@ -7073,6 +7074,7 @@ spirv-headers:
     '*': [spirv-headers]
     bionic: null
     xenial: null
+  nixos: [spirv-headers]
 spirv-tools:
   arch: [spirv-tools]
   debian: [spirv-tools]
@@ -7083,6 +7085,7 @@ spirv-tools:
     '*': [spirv-tools]
     bionic: null
     xenial: null
+  nixos: [spirv-tools]
 sqlite3:
   arch: [sqlite]
   debian: [sqlite3]
