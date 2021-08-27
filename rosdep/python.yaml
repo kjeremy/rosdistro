@@ -6994,6 +6994,7 @@ python3-pip:
   openembedded: [python3-pip@openembedded-core]
   opensuse: [python3-pip]
   ubuntu: [python3-pip]
+  nixos: [python3Packages.pip]
 python3-pkg-resources:
   alpine: [py3-setuptools]
   debian: [python3-pkg-resources]
