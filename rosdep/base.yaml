@@ -5538,6 +5538,7 @@ libxmlrpc-c++:
   openembedded: [xmlrpc-c@meta-oe]
   rhel: [xmlrpc-c-devel]
   ubuntu: [libxmlrpc-c++8-dev]
+  nixos: [xmlrpc_c]
 libxmu-dev:
   arch: [libxmu]
   debian: [libxmu-dev]
